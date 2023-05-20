@@ -70,6 +70,14 @@ Example :
 
 ![image](https://github.com/MahaaAlassaf/Hajj-itinerary/assets/85122442/c951d46c-5a86-4409-bc77-484ba5dc2b1a)
 
+### Credits
+The project was created by:
+Maha Alassaf
+
+Noura Althemali
+
+Ahod Alshanwah
+
 
  		
 		
