@@ -25,12 +25,12 @@ A popular and user-friendly PostgreSQL client for macOS that allows users to man
 ### Postgres
 An open-source relational database management system that provides advanced features and scalability for handling complex data storage and retrieval needs.
 
-## Usage
-
-### 1.Pilgrim
-
 ## Database Schema
-<img width="748" alt="Screenshot 1444-10-30 at 6 09 37 PM" src="https://github.com/MahaaAlassaf/Hajj-itinerary/assets/85122442/522dd1bf-bd72-4fc8-bf5a-6d650c0c1887">
+
+<img width="1380" alt="Screenshot 1444-10-30 at 6 11 39 PM" src="https://github.com/MahaaAlassaf/Hajj-itinerary/assets/85122442/92405c45-a583-4e35-8f5d-d785ea7cd609">
+
+## Usage
+### 1.Pilgrim
 
 | Column Name	 | Type|
 | -------------| ------------- |
