@@ -12,7 +12,7 @@ The project provides the following features:
 
 4- Support for JSON
 
-#Tools 🛠️
+## Tools 🛠️
 Vapor
 A server-side Swift web framework that allows developers to build high-performance web applications and APIs.
 
@@ -25,7 +25,7 @@ A popular and user-friendly PostgreSQL client for macOS that allows users to man
 Postgres
 An open-source relational database management system that provides advanced features and scalability for handling complex data storage and retrieval needs.
 
-#Usage
+## Usage
 
 | Column Name	 | Type|
 | -------------| ------------- |
