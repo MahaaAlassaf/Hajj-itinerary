@@ -46,7 +46,7 @@ An open-source relational database management system that provides advanced feat
 |  POST | /Pilgrim | Creates a new Pilgrim item. |
 | DELETE Method | /Pilgrim/:id | Deletes an existing Pilgrim item by ID. |
 
-### 1.Itinerary
+### 2.Itinerary
 | Column Name	 | Type|
 | -------------| ------------- |
 | id | 	UUID |
