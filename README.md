@@ -28,6 +28,10 @@ An open-source relational database management system that provides advanced feat
 ## Usage
 
 ### 1.Pilgrim
+
+## Database Schema
+<img width="748" alt="Screenshot 1444-10-30 at 6 09 37 PM" src="https://github.com/MahaaAlassaf/Hajj-itinerary/assets/85122442/522dd1bf-bd72-4fc8-bf5a-6d650c0c1887">
+
 | Column Name	 | Type|
 | -------------| ------------- |
 | id | 	UUID |
