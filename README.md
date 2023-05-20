@@ -76,10 +76,9 @@ Example :
 
 ## Credits
 The project was created by:
+
 Maha Alassaf
-
 Noura Althemali
-
 Ahod Alshanwah
 
 
