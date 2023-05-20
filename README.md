@@ -1,7 +1,7 @@
 # Hajj-itinerary API
 A restful API project using the Vapor framework and Postgres database to manage the information of pilgrims and their Hajj itinerary. RESTful API is a way of accessing and manipulating data stored in a database or other data source. (not the database itself). This project is a great, easy-to-learn example for those who want to learn how to build RESTful APIs.
 
-### Features
+## Features
 The project provides the following features:
 
 1- CRUD operations
@@ -12,7 +12,7 @@ The project provides the following features:
 
 4- Support for JSON
 
-### Tools 🛠️
+## Tools 🛠️
 ### Vapor
 A server-side Swift web framework that allows developers to build high-performance web applications and APIs.
 
@@ -69,12 +69,12 @@ Example :
 
 ![image](https://github.com/MahaaAlassaf/Hajj-itinerary/assets/85122442/8ede8cca-0147-4442-8871-2c74535b9236)
 
-### Visual Interface
+## Visual Interface
 ![image](https://github.com/MahaaAlassaf/Hajj-itinerary/assets/85122442/cd34cf65-65e9-4793-8376-6700861bbed5)
 
 ![image](https://github.com/MahaaAlassaf/Hajj-itinerary/assets/85122442/c951d46c-5a86-4409-bc77-484ba5dc2b1a)
 
-### Credits
+## Credits
 The project was created by:
 Maha Alassaf
 
